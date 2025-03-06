@@ -122,7 +122,7 @@ StyleCase is a community-driven project, and your contributions are welcome! Whe
 
 Fork the repo, start contributing, and help us build the next big utility-first CSS framework! 🚀  
 
-🔗 **GitHub Repo**: [https://github.com/Devprodigyy/StyleCase-dev](https://github.com/Devprodigyy/StyleCase-dev)  
+🔗 **GitHub Repo**: [https://github.com/Devprodigyy/StyleCase-dev](https://github.com/Devprodigyy/StyleCase)  
 
 ---
 
