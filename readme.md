@@ -35,6 +35,42 @@ Simply add the following line inside your `<head>` tag to start using StyleCase:
 git clone https://github.com/Devprodigyy/StyleCase.git
 ```
 
+### 4️⃣ Fork the Repository
+
+If you want to contribute, follow these steps to fork and work on the repository:
+
+1. **Go to the GitHub Repo:** [Stylecase Repository](https://github.com/Devprodigyy/Stylecase-dev)
+2. **Click on Fork:** In the top right corner, click on the `Fork` button to create a copy in your own GitHub account.
+3. **Clone Your Fork:**
+   ```sh
+   git clone https://github.com/YOUR_GITHUB_USERNAME/Stylecase-dev.git
+   ```
+4. **Navigate to the Project Directory:**
+   ```sh
+   cd Stylecase-dev
+   ```
+5. **Create a New Branch:**
+   ```sh
+   git checkout -b feature-branch
+   ```
+6. **Make Your Changes & Commit:**
+   ```sh
+   git add .
+   git commit -m "Describe your changes"
+   ```
+7. **Push to Your Forked Repo:**
+   ```sh
+   git push origin feature-branch
+   ```
+8. **Create a Pull Request:**
+   - Go to your forked repository on GitHub.
+   - Click on "Compare & pull request."
+   - Add a title and description for your changes.
+   - Click "Create pull request."
+
+---
+
+
 ---
 
 ## 📌 Utility Classes Reference
