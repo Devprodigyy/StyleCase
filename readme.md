@@ -71,7 +71,7 @@ If you want to contribute, follow these steps to fork and work on the repository
 Simply add the following line inside your `<head>` tag to start using StyleCase: 
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Devprodigyy/StyleCase-dev/stylecase.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Devprodigyy/StyleCase/stylecase.css">
 ```
 
 ### 2️⃣ Use the Utility Classes
