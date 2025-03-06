@@ -11,39 +11,33 @@ StyleCase is an open-source utility-first CSS framework designed to provide conc
 
 ---
 
-## 🚀 Get Started
+## 🤝 Contribute & Join the Community
 
-### 1️⃣ Use StyleCase via CDN
+StyleCase is a community-driven project, and your contributions are welcome! Whether you’re a beginner or an experienced developer, you can help us improve, expand, and optimize StyleCase.
 
-Simply add the following line inside your `<head>` tag to start using StyleCase: 
+### Ways to Contribute
 
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Devprodigyy/StyleCase-dev/stylecase.css">
-```
+✔️ Submit Issues – Found a bug or have a suggestion? Open an issue!  
+✔️ Create Pull Requests – Add new features, fix bugs, or enhance documentation.  
+✔️ Spread the Word – Star ⭐ the repo, share on social media, and invite friends to contribute.  
 
-### 2️⃣ Use the Utility Classes
+### Join Us & Make an Impact!
 
-```html
-<div class="fc fcol bg-p p3">
-    <h1 class="tc tlg tb">Welcome to StyleCase</h1>
-</div>
-```
+Fork the repo, start contributing, and help us build the next big utility-first CSS framework! 🚀  
 
-### 3️⃣ Clone & Use Locally
+🔗 **GitHub Repo**: [https://github.com/Devprodigyy/StyleCase](https://github.com/Devprodigyy/StyleCase)  
 
-```sh
-git clone https://github.com/Devprodigyy/StyleCase.git
-```
+---
 
 ### 4️⃣ Fork the Repository
 
 If you want to contribute, follow these steps to fork and work on the repository:
 
-1. **Go to the GitHub Repo:** [Stylecase Repository](https://github.com/Devprodigyy/Stylecase-dev)
+1. **Go to the GitHub Repo:** [Stylecase Repository](https://github.com/Devprodigyy/Stylecase)
 2. **Click on Fork:** In the top right corner, click on the `Fork` button to create a copy in your own GitHub account.
 3. **Clone Your Fork:**
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Stylecase-dev.git
+   git clone https://github.com/YOUR_GITHUB_USERNAME/Stylecase.git
    ```
 4. **Navigate to the Project Directory:**
    ```sh
@@ -69,6 +63,31 @@ If you want to contribute, follow these steps to fork and work on the repository
    - Click "Create pull request."
 
 ---
+
+## 🚀 Get Started
+
+### 1️⃣ Use StyleCase via CDN
+
+Simply add the following line inside your `<head>` tag to start using StyleCase: 
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Devprodigyy/StyleCase-dev/stylecase.css">
+```
+
+### 2️⃣ Use the Utility Classes
+
+```html
+<div class="fc fcol bg-p p3">
+    <h1 class="tc tlg tb">Welcome to StyleCase</h1>
+</div>
+```
+
+### 3️⃣ Clone & Use Locally
+
+```sh
+git clone https://github.com/Devprodigyy/StyleCase.git
+```
+
 
 
 ---
@@ -144,23 +163,6 @@ If you want to contribute, follow these steps to fork and work on the repository
 
 ---
 
-## 🤝 Contribute & Join the Community
-
-StyleCase is a community-driven project, and your contributions are welcome! Whether you’re a beginner or an experienced developer, you can help us improve, expand, and optimize StyleCase.
-
-### Ways to Contribute
-
-✔️ Submit Issues – Found a bug or have a suggestion? Open an issue!  
-✔️ Create Pull Requests – Add new features, fix bugs, or enhance documentation.  
-✔️ Spread the Word – Star ⭐ the repo, share on social media, and invite friends to contribute.  
-
-### Join Us & Make an Impact!
-
-Fork the repo, start contributing, and help us build the next big utility-first CSS framework! 🚀  
-
-🔗 **GitHub Repo**: [https://github.com/Devprodigyy/StyleCase-dev](https://github.com/Devprodigyy/StyleCase)  
-
----
 
 ## 📄 License
 
