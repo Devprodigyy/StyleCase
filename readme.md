@@ -32,7 +32,7 @@ Simply add the following line inside your `<head>` tag to start using StyleCase:
 ### 3️⃣ Clone & Use Locally
 
 ```sh
-git clone https://github.com/Devprodigyy/StyleCase-dev.git
+git clone https://github.com/Devprodigyy/StyleCase.git
 ```
 
 ---
