@@ -1,3 +1,4 @@
+/* Font Size */
 .f-xs {
   font-size: 10px;
 }
@@ -18,6 +19,7 @@
   font-size: 24px;
 }
 
+/* Font Weight */
 .f-thin {
   font-weight: 100;
 }
@@ -34,6 +36,20 @@
   font-weight: 700;
 }
 
+/* Letter Spacing */
+.ls-sm {
+  letter-spacing: -0.5px;
+}
+
+.ls-md {
+  letter-spacing: 0px;
+}
+
+.ls-lg {
+  letter-spacing: 2px;
+}
+
+/* Text Align */
 .txt-l {
   text-align: left;
 }
@@ -46,16 +62,34 @@
   text-align: right;
 }
 
-.ls-sm {
-  letter-spacing: -0.5px;
+/* Text Transform */
+.txt-up {
+  text-transform: uppercase;
 }
 
-.ls-md {
-  letter-spacing: 0px;
+.txt-lw {
+  text-transform: lowercase;
 }
 
-.ls-lg {
-  letter-spacing: 2px;
+.txt-cp {
+  text-transform: capitalize;
+}
+
+/* Text Decoration */
+.txt-d-u {
+  text-decoration-line: underline;
+}
+
+.txt-d-o {
+  text-decoration-line: overline;
+}
+
+.txt-d-l {
+  text-decoration-line: line-through;
+}
+
+.txt-d-n {
+  text-decoration-line: none;
 }
 
 /* Text Colors */
@@ -230,6 +264,7 @@
   border-radius: 50%;
 }
 
+/* Display */
 .d-b {
   display: block;
 }
@@ -246,6 +281,96 @@
   display: grid;
 }
 
+/* Flex Wrap */
+.fw-w {
+  flex-wrap: wrap;
+}
+
+.fw-n {
+  flex-wrap: nowrap;
+}
+
+/* Flex Direction */
+.fd-r {
+  flex-direction: row;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.fd-rr {
+  flex-direction: row-reverse;
+}
+
+.fd-cr {
+  flex-direction: column-reverse;
+}
+
+/* Align Items */
+.al-start {
+  align-items: flex-start;
+}
+
+.al-center {
+  align-items: center;
+}
+
+.al-end {
+  align-items: flex-end;
+}
+
+/* Align Content */
+.ac-start {
+  align-content: flex-start;
+}
+
+.ac-center {
+  align-content: center;
+}
+
+.ac-between {
+  align-content: space-between;
+}
+
+.ac-around {
+  align-content: space-around;
+}
+
+.ac-evenly {
+  align-content: space-evenly;
+}
+
+.ac-end {
+  align-content: flex-end;
+}
+
+/* Justify Content */
+.j-start {
+  justify-content: flex-start;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.j-between {
+  justify-content: space-between;
+}
+
+.j-around {
+  justify-content: space-around;
+}
+
+.j-evenly {
+  justify-content: space-evenly;
+}
+
+.j-end {
+  justify-content: flex-end;
+}
+
+/* Position */
 .pos-rel {
   position: relative;
 }
@@ -262,6 +387,7 @@
   position: sticky;
 }
 
+/* Width */
 .w-auto {
   width: auto;
 }
@@ -282,6 +408,7 @@
   width: 25%;
 }
 
+/* Height */
 .h-auto {
   height: auto;
 }
@@ -338,6 +465,7 @@
   color: white;
 }
 
+/* Media */
 @media (max-width: 768px) {
   .sm-hide {
     display: none;
@@ -359,4 +487,4 @@
   .md-w-100 {
     width: 100%;
   }
-}/*# sourceMappingURL=stylecase.css.map */
+}
